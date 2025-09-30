@@ -1,1 +1,2 @@
-Creating robotic arm that is controlled by a joystick. left and right is control for one location and top and down is cotnrolled by other. 
+#Code for arduino based robotic arm
+**Code was made for a friend who made robotic arm but wanted a code to make the hardware move accordingly** 
